@@ -1,3 +1,0 @@
-//Data
-//Function
-//Initialization
